@@ -17,7 +17,7 @@
 
 set -e
 
-export DEVICE=zeroltexx
+export DEVICE=zeroltespr
 export DEVICE_COMMON=zero-common
 export VENDOR=samsung
 
