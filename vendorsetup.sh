@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo aicp_zeroltespr-userdebug
+add_lunch_combo aicp_zeroltekdi-userdebug
